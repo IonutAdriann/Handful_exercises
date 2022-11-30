@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\SimplePersonExample\bin\Debug\net6.0\SimplePersonExample.exe
+C:\Users\Ionut\RiderProjects\SimplePersonExample\bin\Debug\net6.0\SimplePersonExample.deps.json
+C:\Users\Ionut\RiderProjects\SimplePersonExample\bin\Debug\net6.0\SimplePersonExample.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\SimplePersonExample\bin\Debug\net6.0\SimplePersonExample.dll
+C:\Users\Ionut\RiderProjects\SimplePersonExample\bin\Debug\net6.0\SimplePersonExample.pdb
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.dll
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\refint\SimplePersonExample.dll
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.pdb
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\SimplePersonExample.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\SimplePersonExample\obj\Debug\net6.0\ref\SimplePersonExample.dll
