@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\SeparateNamespace\bin\Debug\net6.0\SeparateNamespace.exe
+C:\Users\Ionut\RiderProjects\SeparateNamespace\bin\Debug\net6.0\SeparateNamespace.deps.json
+C:\Users\Ionut\RiderProjects\SeparateNamespace\bin\Debug\net6.0\SeparateNamespace.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\SeparateNamespace\bin\Debug\net6.0\SeparateNamespace.dll
+C:\Users\Ionut\RiderProjects\SeparateNamespace\bin\Debug\net6.0\SeparateNamespace.pdb
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.dll
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\refint\SeparateNamespace.dll
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.pdb
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\SeparateNamespace.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\SeparateNamespace\obj\Debug\net6.0\ref\SeparateNamespace.dll
