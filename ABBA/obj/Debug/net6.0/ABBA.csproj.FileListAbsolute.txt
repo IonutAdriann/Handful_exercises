@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\ABBA\bin\Debug\net6.0\ABBA.exe
+C:\Users\Ionut\RiderProjects\ABBA\bin\Debug\net6.0\ABBA.deps.json
+C:\Users\Ionut\RiderProjects\ABBA\bin\Debug\net6.0\ABBA.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\ABBA\bin\Debug\net6.0\ABBA.dll
+C:\Users\Ionut\RiderProjects\ABBA\bin\Debug\net6.0\ABBA.pdb
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.dll
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\refint\ABBA.dll
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.pdb
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ABBA.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\ABBA\obj\Debug\net6.0\ref\ABBA.dll
