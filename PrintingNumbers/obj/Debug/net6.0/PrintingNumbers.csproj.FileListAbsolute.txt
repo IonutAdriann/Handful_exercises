@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.exe
+C:\Users\Ionut\RiderProjects\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.deps.json
+C:\Users\Ionut\RiderProjects\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.dll
+C:\Users\Ionut\RiderProjects\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.pdb
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.dll
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\refint\PrintingNumbers.dll
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.pdb
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\PrintingNumbers\obj\Debug\net6.0\ref\PrintingNumbers.dll
