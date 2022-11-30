@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\ArrayClumps\bin\Debug\net6.0\ArrayClumps.exe
+C:\Users\Ionut\RiderProjects\ArrayClumps\bin\Debug\net6.0\ArrayClumps.deps.json
+C:\Users\Ionut\RiderProjects\ArrayClumps\bin\Debug\net6.0\ArrayClumps.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\ArrayClumps\bin\Debug\net6.0\ArrayClumps.dll
+C:\Users\Ionut\RiderProjects\ArrayClumps\bin\Debug\net6.0\ArrayClumps.pdb
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.dll
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\refint\ArrayClumps.dll
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.pdb
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ArrayClumps.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\ArrayClumps\obj\Debug\net6.0\ref\ArrayClumps.dll
