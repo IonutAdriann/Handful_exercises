@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\bin\Debug\net6.0\MoreMath_ex6.exe
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\bin\Debug\net6.0\MoreMath_ex6.deps.json
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\bin\Debug\net6.0\MoreMath_ex6.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\bin\Debug\net6.0\MoreMath_ex6.dll
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\bin\Debug\net6.0\MoreMath_ex6.pdb
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.dll
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\refint\MoreMath_ex6.dll
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.pdb
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\MoreMath_ex6.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\MoreMath_ex6\obj\Debug\net6.0\ref\MoreMath_ex6.dll
