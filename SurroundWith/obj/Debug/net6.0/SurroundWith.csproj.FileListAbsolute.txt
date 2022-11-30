@@ -1,0 +1,15 @@
+C:\Users\Ionut\RiderProjects\SurroundWith\bin\Debug\net6.0\SurroundWith.exe
+C:\Users\Ionut\RiderProjects\SurroundWith\bin\Debug\net6.0\SurroundWith.deps.json
+C:\Users\Ionut\RiderProjects\SurroundWith\bin\Debug\net6.0\SurroundWith.runtimeconfig.json
+C:\Users\Ionut\RiderProjects\SurroundWith\bin\Debug\net6.0\SurroundWith.dll
+C:\Users\Ionut\RiderProjects\SurroundWith\bin\Debug\net6.0\SurroundWith.pdb
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.csproj.AssemblyReference.cache
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.AssemblyInfoInputs.cache
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.AssemblyInfo.cs
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.csproj.CoreCompileInputs.cache
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.dll
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\refint\SurroundWith.dll
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.pdb
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\SurroundWith.genruntimeconfig.cache
+C:\Users\Ionut\RiderProjects\SurroundWith\obj\Debug\net6.0\ref\SurroundWith.dll
